@@ -1,0 +1,66 @@
+C:\Users\mario.latifi\source\repos\MyCatteryApplication\WpfConsole\bin\Debug\net8.0-windows\WpfConsole.exe
+C:\Users\mario.latifi\source\repos\MyCatteryApplication\WpfConsole\bin\Debug\net8.0-windows\WpfConsole.deps.json
+C:\Users\mario.latifi\source\repos\MyCatteryApplication\WpfConsole\bin\Debug\net8.0-windows\WpfConsole.runtimeconfig.json
+C:\Users\mario.latifi\source\repos\MyCatteryApplication\WpfConsole\bin\Debug\net8.0-windows\WpfConsole.dll
+C:\Users\mario.latifi\source\repos\MyCatteryApplication\WpfConsole\bin\Debug\net8.0-windows\WpfConsole.pdb
+C:\Users\mario.latifi\source\repos\MyCatteryApplication\WpfConsole\obj\Debug\net8.0-windows\MainWindow.g.cs
+C:\Users\mario.latifi\source\repos\MyCatteryApplication\WpfConsole\obj\Debug\net8.0-windows\App.g.cs
+C:\Users\mario.latifi\source\repos\MyCatteryApplication\WpfConsole\obj\Debug\net8.0-windows\WpfConsole_MarkupCompile.cache
+C:\Users\mario.latifi\source\repos\MyCatteryApplication\WpfConsole\obj\Debug\net8.0-windows\WpfConsole_MarkupCompile.lref
+C:\Users\mario.latifi\source\repos\MyCatteryApplication\WpfConsole\obj\Debug\net8.0-windows\MainWindow.baml
+C:\Users\mario.latifi\source\repos\MyCatteryApplication\WpfConsole\obj\Debug\net8.0-windows\WpfConsole.g.resources
+C:\Users\mario.latifi\source\repos\MyCatteryApplication\WpfConsole\obj\Debug\net8.0-windows\WpfConsole.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\mario.latifi\source\repos\MyCatteryApplication\WpfConsole\obj\Debug\net8.0-windows\WpfConsole.AssemblyInfoInputs.cache
+C:\Users\mario.latifi\source\repos\MyCatteryApplication\WpfConsole\obj\Debug\net8.0-windows\WpfConsole.AssemblyInfo.cs
+C:\Users\mario.latifi\source\repos\MyCatteryApplication\WpfConsole\obj\Debug\net8.0-windows\WpfConsole.csproj.CoreCompileInputs.cache
+C:\Users\mario.latifi\source\repos\MyCatteryApplication\WpfConsole\obj\Debug\net8.0-windows\WpfConsole.sourcelink.json
+C:\Users\mario.latifi\source\repos\MyCatteryApplication\WpfConsole\obj\Debug\net8.0-windows\WpfConsole.dll
+C:\Users\mario.latifi\source\repos\MyCatteryApplication\WpfConsole\obj\Debug\net8.0-windows\refint\WpfConsole.dll
+C:\Users\mario.latifi\source\repos\MyCatteryApplication\WpfConsole\obj\Debug\net8.0-windows\WpfConsole.pdb
+C:\Users\mario.latifi\source\repos\MyCatteryApplication\WpfConsole\obj\Debug\net8.0-windows\WpfConsole.genruntimeconfig.cache
+C:\Users\mario.latifi\source\repos\MyCatteryApplication\WpfConsole\obj\Debug\net8.0-windows\ref\WpfConsole.dll
+C:\Users\latif\Desktop\CatterCleanV2.0\WpfConsole\bin\Debug\net8.0-windows\WpfConsole.exe
+C:\Users\latif\Desktop\CatterCleanV2.0\WpfConsole\bin\Debug\net8.0-windows\WpfConsole.deps.json
+C:\Users\latif\Desktop\CatterCleanV2.0\WpfConsole\bin\Debug\net8.0-windows\WpfConsole.runtimeconfig.json
+C:\Users\latif\Desktop\CatterCleanV2.0\WpfConsole\bin\Debug\net8.0-windows\WpfConsole.dll
+C:\Users\latif\Desktop\CatterCleanV2.0\WpfConsole\bin\Debug\net8.0-windows\WpfConsole.pdb
+C:\Users\latif\Desktop\CatterCleanV2.0\WpfConsole\obj\Debug\net8.0-windows\MainWindow.g.cs
+C:\Users\latif\Desktop\CatterCleanV2.0\WpfConsole\obj\Debug\net8.0-windows\App.g.cs
+C:\Users\latif\Desktop\CatterCleanV2.0\WpfConsole\obj\Debug\net8.0-windows\WpfConsole_MarkupCompile.cache
+C:\Users\latif\Desktop\CatterCleanV2.0\WpfConsole\obj\Debug\net8.0-windows\WpfConsole_MarkupCompile.lref
+C:\Users\latif\Desktop\CatterCleanV2.0\WpfConsole\obj\Debug\net8.0-windows\MainWindow.baml
+C:\Users\latif\Desktop\CatterCleanV2.0\WpfConsole\obj\Debug\net8.0-windows\WpfConsole.g.resources
+C:\Users\latif\Desktop\CatterCleanV2.0\WpfConsole\obj\Debug\net8.0-windows\WpfConsole.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\latif\Desktop\CatterCleanV2.0\WpfConsole\obj\Debug\net8.0-windows\WpfConsole.AssemblyInfoInputs.cache
+C:\Users\latif\Desktop\CatterCleanV2.0\WpfConsole\obj\Debug\net8.0-windows\WpfConsole.AssemblyInfo.cs
+C:\Users\latif\Desktop\CatterCleanV2.0\WpfConsole\obj\Debug\net8.0-windows\WpfConsole.csproj.CoreCompileInputs.cache
+C:\Users\latif\Desktop\CatterCleanV2.0\WpfConsole\obj\Debug\net8.0-windows\WpfConsole.sourcelink.json
+C:\Users\latif\Desktop\CatterCleanV2.0\WpfConsole\obj\Debug\net8.0-windows\WpfConsole.dll
+C:\Users\latif\Desktop\CatterCleanV2.0\WpfConsole\obj\Debug\net8.0-windows\refint\WpfConsole.dll
+C:\Users\latif\Desktop\CatterCleanV2.0\WpfConsole\obj\Debug\net8.0-windows\WpfConsole.pdb
+C:\Users\latif\Desktop\CatterCleanV2.0\WpfConsole\obj\Debug\net8.0-windows\WpfConsole.genruntimeconfig.cache
+C:\Users\latif\Desktop\CatterCleanV2.0\WpfConsole\obj\Debug\net8.0-windows\ref\WpfConsole.dll
+C:\Users\francesco.palazzi\Desktop\CatterCleanV2.0 (1)\CatterCleanV2.0\CatterCleanV2.0\CatterCleanV2.0\WpfConsole\obj\Debug\net8.0-windows\AddCat.g.cs
+C:\Users\francesco.palazzi\Desktop\CatterCleanV2.0 (1)\CatterCleanV2.0\CatterCleanV2.0\CatterCleanV2.0\WpfConsole\obj\Debug\net8.0-windows\MainWindow.g.cs
+C:\Users\francesco.palazzi\Desktop\CatterCleanV2.0 (1)\CatterCleanV2.0\CatterCleanV2.0\CatterCleanV2.0\WpfConsole\obj\Debug\net8.0-windows\ViewCat.g.cs
+C:\Users\francesco.palazzi\Desktop\CatterCleanV2.0 (1)\CatterCleanV2.0\CatterCleanV2.0\CatterCleanV2.0\WpfConsole\obj\Debug\net8.0-windows\App.g.cs
+C:\Users\francesco.palazzi\Desktop\CatterCleanV2.0 (1)\CatterCleanV2.0\CatterCleanV2.0\CatterCleanV2.0\WpfConsole\obj\Debug\net8.0-windows\WpfConsole_MarkupCompile.cache
+C:\Users\francesco.palazzi\Desktop\CatterCleanV2.0 (1)\CatterCleanV2.0\CatterCleanV2.0\CatterCleanV2.0\WpfConsole\obj\Debug\net8.0-windows\WpfConsole_MarkupCompile.lref
+C:\Users\francesco.palazzi\Desktop\CatterCleanV2.0 (1)\CatterCleanV2.0\CatterCleanV2.0\CatterCleanV2.0\WpfConsole\obj\Debug\net8.0-windows\WpfConsole.dll
+C:\Users\francesco.palazzi\Desktop\CatterCleanV2.0 (1)\CatterCleanV2.0\CatterCleanV2.0\CatterCleanV2.0\WpfConsole\obj\Debug\net8.0-windows\refint\WpfConsole.dll
+C:\Users\francesco.palazzi\Desktop\CatterCleanV2.0 (1)\CatterCleanV2.0\CatterCleanV2.0\CatterCleanV2.0\WpfConsole\obj\Debug\net8.0-windows\WpfConsole.pdb
+C:\Users\francesco.palazzi\Desktop\CatterCleanV2.0 (1)\CatterCleanV2.0\CatterCleanV2.0\CatterCleanV2.0\WpfConsole\bin\Debug\net8.0-windows\WpfConsole.exe
+C:\Users\francesco.palazzi\Desktop\CatterCleanV2.0 (1)\CatterCleanV2.0\CatterCleanV2.0\CatterCleanV2.0\WpfConsole\bin\Debug\net8.0-windows\WpfConsole.deps.json
+C:\Users\francesco.palazzi\Desktop\CatterCleanV2.0 (1)\CatterCleanV2.0\CatterCleanV2.0\CatterCleanV2.0\WpfConsole\bin\Debug\net8.0-windows\WpfConsole.runtimeconfig.json
+C:\Users\francesco.palazzi\Desktop\CatterCleanV2.0 (1)\CatterCleanV2.0\CatterCleanV2.0\CatterCleanV2.0\WpfConsole\bin\Debug\net8.0-windows\WpfConsole.dll
+C:\Users\francesco.palazzi\Desktop\CatterCleanV2.0 (1)\CatterCleanV2.0\CatterCleanV2.0\CatterCleanV2.0\WpfConsole\bin\Debug\net8.0-windows\WpfConsole.pdb
+C:\Users\francesco.palazzi\Desktop\CatterCleanV2.0 (1)\CatterCleanV2.0\CatterCleanV2.0\CatterCleanV2.0\WpfConsole\obj\Debug\net8.0-windows\AddCat.baml
+C:\Users\francesco.palazzi\Desktop\CatterCleanV2.0 (1)\CatterCleanV2.0\CatterCleanV2.0\CatterCleanV2.0\WpfConsole\obj\Debug\net8.0-windows\MainWindow.baml
+C:\Users\francesco.palazzi\Desktop\CatterCleanV2.0 (1)\CatterCleanV2.0\CatterCleanV2.0\CatterCleanV2.0\WpfConsole\obj\Debug\net8.0-windows\ViewCat.baml
+C:\Users\francesco.palazzi\Desktop\CatterCleanV2.0 (1)\CatterCleanV2.0\CatterCleanV2.0\CatterCleanV2.0\WpfConsole\obj\Debug\net8.0-windows\WpfConsole.g.resources
+C:\Users\francesco.palazzi\Desktop\CatterCleanV2.0 (1)\CatterCleanV2.0\CatterCleanV2.0\CatterCleanV2.0\WpfConsole\obj\Debug\net8.0-windows\WpfConsole.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\francesco.palazzi\Desktop\CatterCleanV2.0 (1)\CatterCleanV2.0\CatterCleanV2.0\CatterCleanV2.0\WpfConsole\obj\Debug\net8.0-windows\WpfConsole.AssemblyInfoInputs.cache
+C:\Users\francesco.palazzi\Desktop\CatterCleanV2.0 (1)\CatterCleanV2.0\CatterCleanV2.0\CatterCleanV2.0\WpfConsole\obj\Debug\net8.0-windows\WpfConsole.AssemblyInfo.cs
+C:\Users\francesco.palazzi\Desktop\CatterCleanV2.0 (1)\CatterCleanV2.0\CatterCleanV2.0\CatterCleanV2.0\WpfConsole\obj\Debug\net8.0-windows\WpfConsole.csproj.CoreCompileInputs.cache
+C:\Users\francesco.palazzi\Desktop\CatterCleanV2.0 (1)\CatterCleanV2.0\CatterCleanV2.0\CatterCleanV2.0\WpfConsole\obj\Debug\net8.0-windows\WpfConsole.genruntimeconfig.cache
+C:\Users\francesco.palazzi\Desktop\CatterCleanV2.0 (1)\CatterCleanV2.0\CatterCleanV2.0\CatterCleanV2.0\WpfConsole\obj\Debug\net8.0-windows\ref\WpfConsole.dll
