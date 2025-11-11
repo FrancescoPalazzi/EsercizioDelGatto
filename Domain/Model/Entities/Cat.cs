@@ -8,13 +8,10 @@ using System.Threading.Tasks;
 
 namespace Domain.Model.Entities
 {
-    public enum Sex
-    {
-        Male,Female
-    }
+   
     public class Cat
     {
-        public Cat(string name,string race,Sex sex,string description, DateOnly? birth,DateOnly arrived,DateOnly? left)
+        public Cat(string name,string race,bool sex,string description, DateOnly? birth,DateOnly arrived,DateOnly? left)
         {
             if(string.IsNullOrWhiteSpace(name))
             {
@@ -67,7 +64,7 @@ namespace Domain.Model.Entities
         }
         public string Name { get; private set; }
         public string Race { get; private set; }
-        public Sex CatSex { get; private set; }
+        public bool CatSex { get; private set; }
         public DateOnly? Birth { get; private set; }
         public DateOnly ArrivedToCattery { get; private set; }
         public DateOnly? LeftCattery { get; set; }

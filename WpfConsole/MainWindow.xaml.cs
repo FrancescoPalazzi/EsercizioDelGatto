@@ -38,5 +38,13 @@ namespace WpfConsole
             view.Show();
             this.Close();
         }
+
+        private void visAdoatori_Click(object sender, RoutedEventArgs e)
+        {
+            ViewAdoption viewAdopt = new ViewAdoption();
+            viewAdopt.Show();
+            this.Close();
+        }   
+
     }
 }

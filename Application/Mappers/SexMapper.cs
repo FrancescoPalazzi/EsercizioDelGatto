@@ -10,16 +10,16 @@ namespace Application.Mappers
 {
     public static class SexMapper
     {
-        public static Sex ToEntity(this SexDto dto )
+        public static bool ToEntity(this SexDto dto )
         {
             if (dto.Sex.ToLower() == "male")
             {
-                return Sex.Male;
+                return true;
             }
-            return Sex.Female;
+            return false;
         }
-        public static SexDto ToDto(this Sex value){
-            if (value == Sex.Male)
+        public static SexDto ToDto(this bool value){
+            if (value == true)
             {
                 return new SexDto("male");
             }

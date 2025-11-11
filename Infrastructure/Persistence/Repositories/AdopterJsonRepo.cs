@@ -30,13 +30,14 @@ namespace Infrastructure.Persistence.Repositories
         public void AddToRepo(Adopter itemToAdd) 
         {
             EnsureLoaded();
-            _cache.Add(itemToAdd);Queryable
+            _cache.Add(itemToAdd); 
         }
 
         public IEnumerable<Adopter> GetAll()
         {
             EnsureLoaded();
         }
+
 
         public void RemoveFromRepo(Adopter itemToRemove)
         {

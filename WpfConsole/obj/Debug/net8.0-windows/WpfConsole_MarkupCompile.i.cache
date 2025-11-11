@@ -4,17 +4,17 @@
 winexe
 C#
 .cs
-C:\Users\francesco.palazzi\Desktop\CatterCleanV2.0 (1)\CatterCleanV2.0\CatterCleanV2.0\CatterCleanV2.0\WpfConsole\obj\Debug\net8.0-windows\
+C:\Users\francesco.palazzi\Desktop\EsercizioDelGatto\WpfConsole\obj\Debug\net8.0-windows\
 WpfConsole
 none
 false
 TRACE;DEBUG;NET;NET8_0;NETCOREAPP;WINDOWS;WINDOWS7_0;NET5_0_OR_GREATER;NET6_0_OR_GREATER;NET7_0_OR_GREATER;NET8_0_OR_GREATER;NETCOREAPP3_0_OR_GREATER;NETCOREAPP3_1_OR_GREATER;WINDOWS7_0_OR_GREATER
-C:\Users\francesco.palazzi\Desktop\CatterCleanV2.0 (1)\CatterCleanV2.0\CatterCleanV2.0\CatterCleanV2.0\WpfConsole\App.xaml
-3-1081213662
+C:\Users\francesco.palazzi\Desktop\EsercizioDelGatto\WpfConsole\App.xaml
+4-525594487
 
-81790612995
-198347540315
-AddCat.xaml;MainWindow.xaml;ViewCat.xaml;
+9-87102904
+201-1604847653
+AddCat.xaml;MainWindow.xaml;ViewAdoption.xaml;ViewCat.xaml;
 
 False
 

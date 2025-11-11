@@ -8,18 +8,18 @@
         Title="AddCat" Height="450" Width="800">
     <Grid>
         <Label Content="Nome" HorizontalAlignment="Left" Margin="41,43,0,0" VerticalAlignment="Top" Height="36" Width="101" FontSize="16"/>
-        <TextBox x:Name="Name" HorizontalAlignment="Left" Margin="147,47,0,0" TextWrapping="Wrap" Text="" VerticalAlignment="Top" Width="139" Height="32" FontSize="16"/>
+        <TextBox x:Name="TxtBoxName" HorizontalAlignment="Left" Margin="147,47,0,0" TextWrapping="Wrap" Text="" VerticalAlignment="Top" Width="139" Height="32" FontSize="16"/>
         <Label Content="Razza" HorizontalAlignment="Left" Margin="41,96,0,0" VerticalAlignment="Top" Height="36" Width="101" FontSize="16"/>
         <TextBox x:Name="Breed" HorizontalAlignment="Left" Margin="147,100,0,0" TextWrapping="Wrap" Text="" VerticalAlignment="Top" Width="139" Height="32" FontSize="16"/>
         <Label Content="Descrizione" HorizontalAlignment="Left" Margin="41,195,0,0" VerticalAlignment="Top" Height="36" Width="101" FontSize="16" RenderTransformOrigin="0.411,1.022"/>
         <TextBox x:Name="Description" HorizontalAlignment="Left" Margin="147,199,0,0" TextWrapping="Wrap" Text="" VerticalAlignment="Top" Width="139" Height="32" FontSize="16"/>
         <DatePicker x:Name="Born" HorizontalAlignment="Left" Margin="41,271,0,0" VerticalAlignment="Top"/>
         <DatePicker x:Name="Arriving" HorizontalAlignment="Left" Margin="41,326,0,0" VerticalAlignment="Top"/>
-        <CheckBox x:Name="F" Content="Femmina" HorizontalAlignment="Left" Margin="46,155,0,0" VerticalAlignment="Top" Height="23" Width="96" FontSize="16"/>
-        <CheckBox x:Name="M" Content="Maschio" HorizontalAlignment="Left" Margin="190,155,0,0" VerticalAlignment="Top" Height="23" Width="96" FontSize="16"/>
+        <CheckBox x:Name="F" Content="Femmina" HorizontalAlignment="Left" Margin="46,155,0,0" VerticalAlignment="Top" Height="23" Width="96" FontSize="16" Checked="F_Checked"/>
+        <CheckBox x:Name="M" Content="Maschio" HorizontalAlignment="Left" Margin="190,155,0,0" VerticalAlignment="Top" Height="23" Width="96" FontSize="16" Checked="M_Checked"/>
         <DatePicker x:Name="Adoption" HorizontalAlignment="Left" Margin="41,382,0,0" VerticalAlignment="Top"/>
-        <Button Content="Aggiungi Gatto" HorizontalAlignment="Left" Margin="485,100,0,0" VerticalAlignment="Top" Height="50" Width="160" FontSize="16"/>
-        <Button Content="Torna Indietro" HorizontalAlignment="Left" Margin="485,217,0,0" VerticalAlignment="Top" Height="50" Width="160" FontSize="16"/>
+        <Button x:Name="AddCat1" Content="Aggiungi Gatto" HorizontalAlignment="Left" Margin="485,100,0,0" VerticalAlignment="Top" Height="50" Width="160" FontSize="16" Click="AddCat1_Click"/>
+        <Button x:Name="back" Content="Torna Indietro" HorizontalAlignment="Left" Margin="485,217,0,0" VerticalAlignment="Top" Height="50" Width="160" FontSize="16"/>
 
     </Grid>
 </Window>

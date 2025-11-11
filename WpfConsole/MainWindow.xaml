@@ -11,9 +11,11 @@
         <Label Content="Numero Gatti Femmine :" HorizontalAlignment="Left" Margin="258,126,0,0" VerticalAlignment="Top" Width="249"/>
         <Label Content="Numero Adozioni : " HorizontalAlignment="Left" Margin="258,171,0,0" VerticalAlignment="Top" Width="249"/>
         <Label Content="Numero Gatti Tot :" HorizontalAlignment="Left" Margin="258,217,0,0" VerticalAlignment="Top" Width="249"/>
-        <Button Content="Aggiungi Gatto" HorizontalAlignment="Left" Margin="201,314,0,0" VerticalAlignment="Top" Height="36" Width="115" x:Name="AggGatto" Click="AggGatto_Click_1" /> 
-        <Button Content="Visualizza Adozioni" HorizontalAlignment="Center" Margin="0,312,0,0" VerticalAlignment="Top" Height="38" Width="117" x:Name="VisAdozioni"/>
-        <Button Content="Visualizza Gatti" HorizontalAlignment="Left" Margin="498,314,0,0" VerticalAlignment="Top" Height="36" Width="117" x:Name="VisGatti" Click="VisGatti_Click" />
+        <Menu Margin="0,0,0,387">
+            <MenuItem Header="Aggiungi Gatti" Height="30" Width="282" Click="AggGatto_Click_1"/>
+            <MenuItem Header="Visualizza Gatti" Height="30" Width="226" Click="VisGatti_Click"/>
+            <MenuItem Header="Visualizza Adozioni" Height="30" Width="282" Click="visAdoatori_Click"/>
+        </Menu>
 
     </Grid>
 </Window>

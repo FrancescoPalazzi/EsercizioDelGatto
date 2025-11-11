@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "nbn1YMWjeLc=",
+  "dgSpecHash": "CRu3gC060rM=",
   "success": true,
-  "projectFilePath": "C:\\Users\\francesco.palazzi\\Desktop\\CatterCleanV2.0 (1)\\CatterCleanV2.0\\CatterCleanV2.0\\CatterCleanV2.0\\TestDomain\\TestDomain.csproj",
+  "projectFilePath": "C:\\Users\\francesco.palazzi\\Desktop\\EsercizioDelGatto\\TestDomain\\TestDomain.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\francesco.palazzi\\.nuget\\packages\\microsoft.applicationinsights\\2.22.0\\microsoft.applicationinsights.2.22.0.nupkg.sha512",
     "C:\\Users\\francesco.palazzi\\.nuget\\packages\\microsoft.codecoverage\\17.12.0\\microsoft.codecoverage.17.12.0.nupkg.sha512",

@@ -1,5 +1,3 @@
-Infrastructure\Persistence\Dto\AddressPercistenceDto.cs
-using System;
 
 namespace Infrastructure.Persistence.Dto
 {
